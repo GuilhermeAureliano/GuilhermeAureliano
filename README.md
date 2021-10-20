@@ -1,4 +1,4 @@
-## Olá! eu sou o Guilherme Aureliano.
+## Olá! eu sou o Guilherme Aureliano
 
 <div align="center">
   <a href="https://github.com/guilhermeaureliano">
